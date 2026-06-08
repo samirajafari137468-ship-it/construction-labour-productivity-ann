@@ -27,8 +27,7 @@ modelling framework:
 ## Dataset
 
 **Name:** Employee Productivity and Work Conditions Dataset  
-**Source:** Kaggle  
-**Link:** https://www.kaggle.com/datasets/leonardgonzales/employee-productivity-and-work-conditions-dataset  
+**Source:** Kaggle   
 **Size:** 14,800 workers · 23 columns · 3 skill tiers  
 **Reference:** Gonzales (2025)
 
